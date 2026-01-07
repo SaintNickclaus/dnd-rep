@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-locations/ceran/"}
+{"dg-publish":true,"permalink":"/2-locations/ceran/","noteIcon":""}
 ---
 
-
-## **Ceran: The River’s Rest**
+# Ceran
+### **Ceran: The River’s Rest**
 
 Ceran is a bustling riverside hamlet that serves as a vital waypoint for rafting traders. Populated primarily by **Robbits** and others seeking a fresh start away from their original societies, the town is defined by its fierce independence and its rejection of Linguardian rule.
 ### **Commerce and Craft**
