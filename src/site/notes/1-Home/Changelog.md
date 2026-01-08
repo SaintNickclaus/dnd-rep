@@ -7,7 +7,7 @@ Changes on the page will be documented here according to what has been added, mo
 ## Changes
 
 1-7-2026 - 11:18 PM EST
-Added Skinwalkers as [Shifters]
+Added Skinwalkers as [[3-Species Stats/Shifters\|Shifters]]
 
 
 
