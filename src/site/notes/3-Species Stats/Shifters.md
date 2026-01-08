@@ -29,7 +29,7 @@ These benefits last until the Shifter returns to her humanoid form as a swift ac
 **Low-Light Vision (Ex)**: Shifters can see twice as far as in conditions of dim light.
 
 # Infernal Lineage Shifter
-**Ability Score Modifiers**: +2 Str*, –2 Cha (+2 Con while shapechanged)
+**Ability Score Modifiers**: +2 Chr*, –2 Wis (+2 Str while shapechanged)
 **Flavor**: Demon somehow mingled in your life at some point, either your family lineage in terms of you have a small bit of demon blood/grandparent, or you have tiefling somewhere in your lineage. Maybe a demon cursed you. 
 
 ## Feat and Skill Racial Traits
